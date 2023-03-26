@@ -12,6 +12,7 @@
   <modules>
     <module>temperature-service-alpha</module>
     <module>temperature-service-beta</module>
+    <module>temperature-gateway</module>
   </modules>
   
 </project>
